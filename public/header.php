@@ -17,7 +17,7 @@
 <nav>
     <div class="container">
         <div class="logo">
-            <h3>GC Festival</h3>
+            <h3>Koektrommel</h3>
         </div>
         <ul class="menu">
             <li><a href="<?php echo PUBLIC_PATH?>/">Home</a></li>
